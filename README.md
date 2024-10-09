@@ -10,7 +10,10 @@ Welcome to my static website created using **GitHub Pages** and **Markdown**!
 ```javascript
 console.log("This is a JavaScript code block");
 
-| Header 1    | Header 2    | Header 3    |
-| ----------- | ----------- | ----------- |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+# My Static Website Features
+
+| Feature        | Status        | Details                      |
+| -------------- | ------------- | ---------------------------- |
+| GitHub Pages   | Deployed      | The website is live.          |
+| Markdown       | Supported     | Styled with Markdown.         |
+| Automation     | Not yet       | GitHub Actions pending setup. |
